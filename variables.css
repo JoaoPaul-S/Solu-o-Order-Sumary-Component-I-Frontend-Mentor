@@ -1,0 +1,7 @@
+:root{
+    --background-color: hsl(225, 100%, 94%);
+    --price-box-color: hsl(225, 100%, 98%);
+    --titles-color: hsl(223, 47%, 23%);
+    --buttons-color: hsl(245, 75%, 52%);
+    --complement-text-color: hsl(224, 23%, 55%);
+}
