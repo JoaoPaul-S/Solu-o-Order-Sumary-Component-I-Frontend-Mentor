@@ -13,7 +13,7 @@
     width: 350px;
 }
 
-p{
+p,h1{
     font-weight: 900;
 }
 
@@ -44,7 +44,7 @@ p{
     margin-bottom: 25px;
 }
 
-.main-warning p:nth-child(2){
+.main-warning h1:nth-child(2){
     font-size: 25px;
     color: var(--titles-color);
 }
